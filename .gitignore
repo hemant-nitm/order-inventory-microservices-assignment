@@ -1,0 +1,18 @@
+# Maven
+target/
+**/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven wrapper jar (allowed: mvnw + mvnw.cmd)
+.mvn/wrapper/maven-wrapper.jar
